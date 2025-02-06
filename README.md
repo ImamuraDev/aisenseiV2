@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# AI-Augmented Cybersecurity Workflows
+
+The Department of Defense (DoD) cybersecurity workforce faces an ever-growing challenge in safeguarding national security infrastructure against increasingly sophisticated threats. In this dynamic landscape, artificial intelligence (AI) presents a powerful opportunity to enhance cybersecurity operations. However, for many professionals, the transition from completing an online course to effectively applying AI in real-world cybersecurity scenarios remains unclear.
+
+To bridge this gap, AI Sensei was developed—an initiative designed to equip the DoD workforce with the skills and knowledge needed for AI integration. By facilitating AI readiness, AI Sensei empowers personnel to seamlessly incorporate AI into existing workflows and explore new applications. This project focuses on expanding and refining the AI Sensei website, enhancing its capabilities to better support the DoD cybersecurity community.
+
+## Table of Contents
+[Project Overview](#project-overview)
+
+[Week 1](#week-1)
+
+[Project Roadmap](#project-roadmap)
+
+
+
+
+# React App Information
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
