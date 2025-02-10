@@ -9,6 +9,8 @@ To bridge this gap, AI Sensei was developed—an initiative designed to equip th
 
 [Week 1](#week-1)
 
+[Week 2](#week-2)
+
 [Project Roadmap](#project-roadmap)
 
 
@@ -84,3 +86,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-----------------------------------------------------------------------------------------------------------------------------
+### Week 1
+Met with our project sponsor to define the project scope and review the previous team's implementation. We identified key objectives, clarified our responsibilities, and established a roadmap for the next phases.
+
+### Week 2 
+Assigned team members to analyze the previously implemented use cases. Each member documented potential issues, identified areas for improvement, and assessed how the current implementation aligns with project goals.
+
